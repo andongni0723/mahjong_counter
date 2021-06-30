@@ -1,0 +1,1090 @@
+fileFormatVersion: 2
+guid: e3cf17c9f01626b458fe171f123f102c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7922869368050413598
+    second: Mahjong3 1_0
+  - first:
+      213: -1629743242312976994
+    second: Mahjong3 1_1
+  - first:
+      213: -6903222132953178106
+    second: Mahjong3 1_2
+  - first:
+      213: 6335408783989686454
+    second: Mahjong3 1_3
+  - first:
+      213: 4547537184367857551
+    second: Mahjong3 1_4
+  - first:
+      213: -5659638839844111711
+    second: Mahjong3 1_5
+  - first:
+      213: 8745775274047154164
+    second: Mahjong3 1_6
+  - first:
+      213: -4613070114213755402
+    second: Mahjong3 1_7
+  - first:
+      213: 668348057087329683
+    second: Mahjong3 1_8
+  - first:
+      213: -5953470856465791807
+    second: Mahjong3 1_9
+  - first:
+      213: 3174354495508168987
+    second: Mahjong3 1_10
+  - first:
+      213: -3608796903748243153
+    second: Mahjong3 1_11
+  - first:
+      213: -6071094910838000723
+    second: Mahjong3 1_12
+  - first:
+      213: 9143196804413217635
+    second: Mahjong3 1_13
+  - first:
+      213: 9068702143440195903
+    second: Mahjong3 1_14
+  - first:
+      213: -808317286592007609
+    second: Mahjong3 1_15
+  - first:
+      213: -9134640475436131545
+    second: Mahjong3 1_16
+  - first:
+      213: -4751206016681587446
+    second: Mahjong3 1_17
+  - first:
+      213: -9143406729619937950
+    second: Mahjong3 1_18
+  - first:
+      213: 4059989677261290952
+    second: Mahjong3 1_19
+  - first:
+      213: -2030877293208773788
+    second: Mahjong3 1_20
+  - first:
+      213: -1765815151805035091
+    second: Mahjong3 1_21
+  - first:
+      213: 5372391073301393793
+    second: Mahjong3 1_22
+  - first:
+      213: 4908071207852146096
+    second: Mahjong3 1_23
+  - first:
+      213: 760871625097638314
+    second: Mahjong3 1_24
+  - first:
+      213: -6582536988572095135
+    second: Mahjong3 1_25
+  - first:
+      213: -673630132415238085
+    second: Mahjong3 1_26
+  - first:
+      213: 2515304708126484776
+    second: Mahjong3 1_27
+  - first:
+      213: -8462602114415948819
+    second: Mahjong3 1_28
+  - first:
+      213: -4777225100299881435
+    second: Mahjong3 1_29
+  - first:
+      213: -3688776981904229328
+    second: Mahjong3 1_30
+  - first:
+      213: -4113531690682336394
+    second: Mahjong3 1_31
+  - first:
+      213: -861808874500071161
+    second: Mahjong3 1_32
+  - first:
+      213: -6234589059473999068
+    second: Mahjong3 1_33
+  - first:
+      213: 211091574651885495
+    second: Mahjong3 1_34
+  - first:
+      213: 1194131110138506802
+    second: Mahjong3 1_35
+  - first:
+      213: -1226029732202056135
+    second: Mahjong3 1_36
+  - first:
+      213: -2212541911550612550
+    second: Mahjong3 1_37
+  - first:
+      213: 2072434131545946570
+    second: Mahjong3 1_38
+  - first:
+      213: 6584922938620461890
+    second: Mahjong3 1_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mahjong3 1_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 855
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef088379405c0290800000000000000
+      internalID: -7922869368050413598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 855
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9577d6e72df169e0800000000000000
+      internalID: -1629743242312976994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 855
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60026bf7b04d230a0800000000000000
+      internalID: -6903222132953178106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 855
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0489cf8b4ebe750800000000000000
+      internalID: 6335408783989686454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 855
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f402da9f81c1f30800000000000000
+      internalID: 4547537184367857551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_5
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 855
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa7612167ce471b0800000000000000
+      internalID: -5659638839844111711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 855
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a9fe464c3f5970800000000000000
+      internalID: 8745775274047154164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_7
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 860
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f581561c251bffb0800000000000000
+      internalID: -4613070114213755402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 705
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39543015403764900800000000000000
+      internalID: 668348057087329683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 705
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c447b38cc5016da0800000000000000
+      internalID: -5953470856465791807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 705
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11cdef58929d0c20800000000000000
+      internalID: 3174354495508168987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 705
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f217e85165afaedc0800000000000000
+      internalID: -3608796903748243153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_12
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 705
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3b1d938532fbba0800000000000000
+      internalID: -6071094910838000723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_13
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 705
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b59860d0923ee70800000000000000
+      internalID: 9143196804413217635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_14
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 705
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3193992d808add70800000000000000
+      internalID: 9068702143440195903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_15
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 710
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74230e2e5b748c4f0800000000000000
+      internalID: -808317286592007609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 565
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b59be82ec3b3180800000000000000
+      internalID: -9134640475436131545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 565
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dcef00d43501eb0800000000000000
+      internalID: -4751206016681587446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 565
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2656614f5081c1180800000000000000
+      internalID: -9143406729619937950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 565
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd79e8c91bf75830800000000000000
+      internalID: 4059989677261290952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_20
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 565
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b52e3acdfd0d3e0800000000000000
+      internalID: -2030877293208773788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_21
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 565
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad88a1a9709e77e0800000000000000
+      internalID: -1765815151805035091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_22
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 565
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181fb9e87319e8a40800000000000000
+      internalID: 5372391073301393793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_23
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 570
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd795c62c8fc1440800000000000000
+      internalID: 4908071207852146096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 415
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa17e9536b82f8a00800000000000000
+      internalID: 760871625097638314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 415
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d6a431c7126a4a0800000000000000
+      internalID: -6582536988572095135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 415
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30f36fa6f8c6a6f0800000000000000
+      internalID: -673630132415238085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_27
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 415
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8292fbd2e4828e220800000000000000
+      internalID: 2515304708126484776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_28
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 415
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb84c6b63cce8a80800000000000000
+      internalID: -8462602114415948819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_29
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 415
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524bb840513e3bdb0800000000000000
+      internalID: -4777225100299881435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_30
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 415
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cf5f101e4deccc0800000000000000
+      internalID: -3688776981904229328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_31
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 420
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b3194c8bcc9e6c0800000000000000
+      internalID: -4113531690682336394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 260
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701e42b056d3a04f0800000000000000
+      internalID: -861808874500071161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 260
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bf38d584a4a79a0800000000000000
+      internalID: -6234589059473999068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 260
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b714323ba2fde200800000000000000
+      internalID: 211091574651885495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_35
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 260
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e6c0bfae7629010800000000000000
+      internalID: 1194131110138506802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_36
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 260
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936770054744cfee0800000000000000
+      internalID: -1226029732202056135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_37
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 260
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbac5f9ad87b41e0800000000000000
+      internalID: -2212541911550612550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_38
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 260
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9f037ccd3c2cc10800000000000000
+      internalID: 2072434131545946570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mahjong3 1_39
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 265
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2434bc53688526b50800000000000000
+      internalID: 6584922938620461890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
